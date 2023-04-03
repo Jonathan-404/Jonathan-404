@@ -1,16 +1,26 @@
-### Hi there 👋
+```python
+>>> from Github import Profile
+>>> Profile('Jonathan-404')
 
-<!--
-**Jonathan-404/Jonathan-404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+{
+    'first_name': 'Jonathan',
+    'last_name': 'Levy',
+    
+    'age': '15yo',
+    'from': 'Israel',
+    
+    'my_shit': [
+        'Penetration Testing',
+        'Web Security Apps',
+        'Wed Development',
+        'JavaScript',
+        'Python',
+        'C#',
+        'C',
+    ],
+    
+    'other': ['Magshimim', 'Music Freak', 'Physics & Math Freak']
+    
+    'IDEs': ['VSCode', 'Visual Studio', 'PyCharm'],
+}
+```
