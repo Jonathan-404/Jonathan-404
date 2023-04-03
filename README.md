@@ -16,10 +16,10 @@
         'JavaScript',
         'Python',
         'C#',
-        'C',
+        'C'
     ],
     
-    'other': ['Magshimim', 'Music Freak', 'Physics & Math Freak']
+    'other': ['Magshimim', 'Music Freak', 'Physics & Math Freak'],
     
     'IDEs': ['VSCode', 'Visual Studio', 'PyCharm'],
 }
