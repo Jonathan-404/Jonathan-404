@@ -27,4 +27,5 @@
 }
 ```
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Jonathan-404&show_icons=true&locale=en" alt="Jonathan-404" /></p>
+![Jonathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jonathan-404&show_icons=true&theme=dark)
+
