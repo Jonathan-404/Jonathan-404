@@ -2,7 +2,7 @@
 
 ```python
 >>> from Github import Profile
->>> Profile('Jonathan-404')
+>>> jonathan = Profile('Jonathan-404')
 
 {
     'first_name': 'Jonathan',
@@ -11,11 +11,11 @@
     'age': '15yo',
     'from': 'Israel',
     
+    'role': 'DevSecOp'.       <-----
+    
     'my_shit': [
         'Penetration Testing',
-        'Web Security Apps',
-        'Wed Development',
-        'JavaScript',
+        'Web Security',
         'Python',
         'C#',
         'C'
@@ -23,6 +23,6 @@
     
     'other': ['Magshimim', 'Music Freak', 'Physics & Math Freak'],
     
-    'IDEs': ['VSCode', 'Visual Studio', 'PyCharm'],
+    'IDEs': ['PyCharm', 'VSCode', 'Visual Studio'],
 }
 ```
